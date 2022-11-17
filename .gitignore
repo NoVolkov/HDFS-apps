@@ -1,0 +1,3 @@
+# gitignore for Java Maven
+**/out
+**/target
